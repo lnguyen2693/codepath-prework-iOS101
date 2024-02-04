@@ -1,8 +1,30 @@
 # codepath-prework-IOS101
 codepath prework project for IOS101
+        
+# Prework - *TODOMAP*
 
+Submitted by: **Linh Nguyen**
 
-App Brainstorming:
+**TODOMAP** is an app that map a picture of your choice to the tasks that you have planned to do.
+        The app is meant to help the users scheduling tasks and stay motivated.
+
+Time spent: **10** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [ ] Users are see a screen with three labels and a button
+- [ ] Tapping the button changes the screen color to a random color
+ 
+## Video Walkthrough
+
+<a href="https://imgur.com/a/VOCXSL4">
+    <p> IOS prework app walkthrough </p>
+</a>
+
+## App Brainstorming
+
     List of applications:
         App: Todoist
         - Simple interface
@@ -36,41 +58,12 @@ App Brainstorming:
         - Create a visual map of tasks the user complete in a day/week/month from their uploaded pictures
         - Comment box on each task so the users can revisit and share their thought about the tasks for 
         themselves to look back.
-        
-        
-        
-        
-# Prework - *Name of App Here*
-
-Submitted by: **Your Name Here**
-
-**Name of your app** is an app that map a picture of your choice to the tasks that you have planned to do.
-        The app is meant to help the users scheduling tasks and stay motivated.
-
-Time spent: **10** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-<a href="https://imgur.com/a/VOCXSL4">
-    <p> IOS prework app walkthrough </p>
-</a>
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-## App Brainstorming (Step 4)
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+    Describe any challenges encountered while building the app:
+    - Getting used to the interface of Xcode and understanding what was happening took me more time than I thought
+    - Coming up with an app idea that I feel like if I complete it, I would definitely want to use it
+    
 
 ## License
 
